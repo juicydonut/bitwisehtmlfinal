@@ -32,14 +32,14 @@ body {
 
 /* Style the content */
 .content {
-    background-color: #ddd;
+    background: rgb(255, 255, 255);
     padding: 10px;
     height: 800px;
 }
 
 /* Style the footer */
 .footer {
-    background-color: #000000;
+    background-color: #afafaf;
     padding: 10px;
     text-align: center;
     font-style: initial;
@@ -51,7 +51,7 @@ body {
 }
 
 input[type=submit] {
-    background-color: red;
+    background-color: rgb(135, 133, 133);
     color: white;
     padding: 12px 20px;
     border: none;
@@ -67,4 +67,3 @@ input[type=submit] {
     margin-bottom: 16px; 
     resize: vertical 
   }
-  
